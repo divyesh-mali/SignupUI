@@ -2,7 +2,9 @@
 
 [Watch the video animations](https://youtube.com/shorts/yLS6cq5GV2Q?si=dfzObk35dxZpCgIW)
 
-## Image Preview
+
+
+# Image Preview
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/divyesh-mali/SignupUI/blob/main/demo/Signup.jpg?raw=true" alt="Signup" width="300"/>
